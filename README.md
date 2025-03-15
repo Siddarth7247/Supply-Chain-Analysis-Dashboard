@@ -97,11 +97,11 @@ This section helps businesses analyze **sales, profit, and demand trends by cate
 
 ## ** How This Dashboard Helps Businesses**  
 
-✔ Provides **real-time visibility** into sales, inventory, and supplier performance  
-✔ Identifies **top-selling products and categories** to maximize revenue  
-✔ Helps businesses **optimize pricing strategies** based on profitability  
-✔ Tracks **regional sales trends** to make informed market expansion decisions  
-✔ Assists in **logistics and delivery performance improvements**  
+ Provides **real-time visibility** into sales, inventory, and supplier performance  
+ *Identifies **top-selling products and categories** to maximize revenue  
+ *Helps businesses **optimize pricing strategies** based on profitability  
+ *Tracks **regional sales trends** to make informed market expansion decisions  
+ *Assists in **logistics and delivery performance improvements**  
 
  **This Power BI dashboard helps organizations make data-driven decisions to enhance supply chain efficiency and boost profitability.**  
 
