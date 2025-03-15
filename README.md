@@ -2,9 +2,8 @@
 
 The **Supply Chain Dashboard** is a **Power BI solution** designed to provide complete visibility into supply chain operations. It helps businesses track **inventory levels, supplier performance, logistics efficiency, and order fulfillment**, enabling data-driven decisions to **optimize processes and reduce costs**.  
 
----
 
-## ** Key Features**  
+## **Key Features**  
 
 1. **Order Management** – Monitor order status, fulfillment rates, and delays.  
 2. **Inventory Tracking** – Analyze stock levels, replenishment needs, and turnover rates.  
@@ -13,22 +12,19 @@ The **Supply Chain Dashboard** is a **Power BI solution** designed to provide co
 5. **Demand Forecasting** – Predict future demand based on historical trends.  
 6. **Cost & Profitability Insights** – Identify cost-saving opportunities and improve margins.  
 
----
 
-## ** Technologies Used**  
+## **Technologies Used**  
 
 - **Power BI** – Data visualization & analytics  
 - **DAX** – Advanced calculations & measures  
 - **Power Query** – Data transformation & integration  
 
----
 
-## ** Dataset Information**  
+## **Dataset Information**  
 
 - **Source:** Kaggle  
 - **Size:** 53 Columns and 180,519 rows  
 
----
 
 ## ** Dashboard Preview**  
 
@@ -40,7 +36,7 @@ This dashboard offers a **comprehensive view of sales performance** across diffe
 - **Total Order Count:** 66K  
 - **Sales Breakdown by:** Year, Customer Segment, Category, and Geographic Regions  
 
-** Insights Provided:**  
+**Insights Provided:**  
 - Helps businesses **identify high-revenue markets**  
 - Enables **sales strategy optimization** using interactive maps  
 - Tracks **yearly and category-wise sales trends**  
@@ -53,7 +49,6 @@ The **Orders Dashboard** focuses on **order distribution** across customer segme
 - Helps businesses **understand demand trends**  
 - Provides **delivery performance analysis** to identify late shipments and cancellations  
 
----
 
 ## ** Products & Category Overview**  
 
@@ -64,30 +59,28 @@ This dashboard provides insights into product performance and category-wise sale
 
  
 
-**📌 Insights Provided:**  
+**Insights Provided:**  
 - Identify **high-performing products** and **low-performing products**  
 - Analyze **discount effectiveness** on product profitability  
 - Compare **product sales trends across different regions**  
 - Optimize **pricing strategies** for better revenue generation  
 
----
 
 ### ** Category Analysis Overview**  
 This section helps businesses analyze **sales, profit, and demand trends by category**.  
 
-✅ **Key Metrics:**  
+ **Key Metrics:**  
 - **Total Sales by Category** – Revenue breakdown by product category  
 - **Profit by Category** – Identifies the most profitable product categories  
 - **Quantity Sold per Category** – Tracks demand levels across different categories  
 - **Revenue Contribution by Category** – Highlights which categories drive overall sales  
 
-**📌 Insights Provided:**  
+**Insights Provided:**  
 - Discover **top-selling categories** and those needing improvements  
 - Understand **seasonal demand trends** for each category  
 - Optimize **inventory management** based on category-level performance  
 - Identify **high-profit categories** vs. **low-margin categories**  
 
----
 
 ## ** Power BI Visualizations Used**  
 
@@ -101,7 +94,6 @@ This section helps businesses analyze **sales, profit, and demand trends by cate
 - **Line Chart**
 - **Map**
 - **Matrix**
----
 
 ## ** How This Dashboard Helps Businesses**  
 
@@ -113,7 +105,6 @@ This section helps businesses analyze **sales, profit, and demand trends by cate
 
  **This Power BI dashboard helps organizations make data-driven decisions to enhance supply chain efficiency and boost profitability.**  
 
----
 
 ## ** How to Use**  
 
@@ -122,7 +113,6 @@ This section helps businesses analyze **sales, profit, and demand trends by cate
 3. **Use the filter options** to customize reports for specific time periods, regions, or categories.  
 4. **Analyze the interactive visualizations** to gain insights into your supply chain performance.  
 
----
 
  
 
